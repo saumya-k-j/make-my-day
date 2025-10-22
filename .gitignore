@@ -1,0 +1,35 @@
+# ---- Java / NetBeans / VS Code ----
+
+# Build outputs
+bin/
+out/
+build/
+dist/
+target/
+*.class
+*.log
+
+# NetBeans private metadata
+nbproject/private/
+nbproject/private/**
+
+# Maven/Gradle caches
+.mvn/
+.gradle/
+**/.gradle/
+**/build/
+
+# VS Code settings
+.vscode/
+.vscode/**
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ / Eclipse (if ever used)
+.idea/
+*.iml
+.project
+.classpath
+.settings/
